@@ -17,10 +17,6 @@ class UsersController < ApplicationController
 		
 	end
 	
-# 	def home
-# 		@user = User.find_by
-# 	end
-	
 	private
 	
 	def user_params
